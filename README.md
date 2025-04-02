@@ -104,12 +104,11 @@ que permita a un usuario consultar si un mensaje es o no de odio)
 
 Se considerarán los siguientes criterios:  
 
-✅ **TODO.**  
-✅ **TODO.**  
-✅ **TODO.**  
-✅ **TODO.**  
-✅ **TODO.**  
-✅ **TODO.**  
+✅ Preprocesamiento (stemming, lematización, stopwords)   
+✅ Modelos de clasificación aplicados a texto    
+✅ Emplea técnicas de vectorización clásicas    
+✅ Uso de Expresiones regulares    
+✅ Implementa técnicas de data augmentation en texto (traducción, reemplazo por sinónimos, etc)    
 
 Más detalles en: [roadmap-mad-ai-p4.coderf5.es](https://roadmap-mad-ai-p4.coderf5.es/)  
 
