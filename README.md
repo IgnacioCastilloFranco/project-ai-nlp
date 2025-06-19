@@ -55,7 +55,7 @@ Para la fecha de entrega, los equipos deberán presentar:
 
 ---
 ## 🏆 Datos
-[Youtube Comments](https://drive.google.com/drive/folders/1zIB19zr1TDA-iGN_KaxxA5owywWEL3Z2](https://drive.google.com/file/u/1/d/1bG7fA273jIBgJfc6YS1vsKfr1qRiNUTU/view?usp=sharing)
+[Youtube Comments](https://drive.google.com/file/d/1bG7fA273jIBgJfc6YS1vsKfr1qRiNUTU/view?usp=sharing)
 
 ## 🏆 Niveles de Entrega  
 
