@@ -83,7 +83,7 @@ que permita a un usuario consultar si un mensaje es o no de odio)
 
 
 ### 🟠 **Nivel Avanzado:**  
-✅ Un modelo que implemente redes neuronales y mejore significativamente los resultados frente a una solución de Machine Learning (RRN o LSTM). 
+✅ Un modelo que implemente redes neuronales y mejore significativamente los resultados frente a una solución de Machine Learning (RNN o LSTM). 
 
 ✅ Una solución que permita introducir la url de un vídeo concreto reconocer mensajes de odio haciendo seguimiento del video en tiempo real. 
 
